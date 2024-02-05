@@ -1,3 +1,3 @@
 # Bluetooth-Bot
-Voice Conrol And Gesture Control Bot Prototype
+Voice Conrol And Gesture Control Bot Prototype.
 I successfully crafted a cutting-edge Bluetooth voice-controlled and gesture  robot using the Raspberry Pi Pico W, showcasing my expertise in both hardware and software integration. This innovative project harnesses the power of the Raspberry Pi Pico W microcontroller and Bluetooth technology to enable seamless voice commands for robot navigation and interaction. The compact and powerful Pico W facilitates real-time processing of voice inputs, interpreting commands through a custom-built speech recognition algorithm. The integration of Bluetooth connectivity allows users to remotely control the robot using a smartphone or any Bluetooth-enabled device.
